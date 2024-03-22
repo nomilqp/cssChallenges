@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-size: 21px;
+}
+img{
+   height: 200px;
+   
+}
+.container{
+    width: 570px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    font-size: 60px;
+    font-weight: 400;
+}
+h2{
+    font-size: 42px;
+    font-weight: 400;
+}
+h3{
+    font-size: 36px;
+    font-weight: 600;
+}
+.small{
+    font-size: 16 px;
+}
+
+

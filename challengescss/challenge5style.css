@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    font-size: 21px;
+}
+body{
+    font-family: robotos;
+}
+img{
+   height: 300px;
+   
+}
+.headerr{
+    padding: 100px 0;
+   background-color: #D7D7D7;
+}
+.header-content{
+    width: 570px;
+    margin: 0 auto;
+}
+.section-content{
+    width: 570px;
+    margin: 0 auto;
+}
+.about-me{
+    margin : 0 auto;
+    background-color: #FFEAEA;
+}
+.article{
+    padding: 100px 0;
+    background-color: #EAF9FF;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+h3{
+    font-size: 25px;
+    font-weight: 600;
+}
+.small{
+    font-size: 16 px;
+    font-weight: 400;
+}
+a{
+    color: #99D930;
+}
+
+h1>span{
+     font-weight: 700; 
+    font-size: 50px;
+    display: block;
+}
+h2>span{
+    font-weight: 800;
+    font-size: 35px;
+    display: block; 
+}
+
+
+

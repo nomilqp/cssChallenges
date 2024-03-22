@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+img{
+   height: 200px;
+   
+}
+.container{
+    width: 570px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
